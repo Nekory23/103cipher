@@ -1,6 +1,5 @@
 # 103cipher
-
-{EPITECH} | First year | Math project
+# {EPITECH} | First year | Math project
 
 Cryptography is a very old science, whose goal is to secure communication, so that only its recipient could read it.
 
@@ -23,15 +22,17 @@ See the subject for further details !
 
 ========================
 
-1st semester Maths unit
+## 1st semester Maths unit
 
 Grade : B | Mark : 18.7
 
-Score : 87.1%
-  - Rigor                       : 85.7%   --- 6/7
-  - Matrix                      : 100%    --- 8/8
-  - Encryption                  : 100%    --- 8/8
-  - Decryption                  : 83.3%   --- 5/6
-  - Decryption size 4 (bonus)   : 0%      --- 0/2
+| Category                  | Percentage | Tests | Crash ? |
+|---------------------------|------------|-------|---------|
+| Rigor                     | 85.7%      | 6/7   | x       |
+| Matrix                    | 100%       | 8/8   | x       |
+| Encryption                | 100%       | 8/8   | x       |
+| Decryption                | 83.3%      | 5/6   | x       |
+| Decryption size 4 (Bonus) | 0%         | 0/2   | x       |
+| **End scores**                | **87.1%**        | **27/31** | **No**      |
   
 Beware of -42 Epitech students !!!
